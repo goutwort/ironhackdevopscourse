@@ -4,3 +4,17 @@ body {
   padding: 2rem;
   background: #f6f8fa;
 }
+
+.logo {
+  background: left / cover
+    url("/mnt/c/Users/tigus/Downloads/Pulley_system_made_from_Lego_by_WoodlandsRobotics.jpg");
+  display: flex;
+  height: 120px;
+  align-items: center;
+  justify-content: center;
+  font:
+    bold calc(1em + 2 * (100vw - 120px) / 100) "Dancing Script",
+    fantasy;
+  color: #ff0083;
+  text-shadow: black 2px 2px 0.2rem;
+}
