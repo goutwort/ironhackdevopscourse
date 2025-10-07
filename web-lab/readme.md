@@ -1,0 +1,1 @@
+A button inside the header that toggles a dark theme.
